@@ -19,6 +19,10 @@ The goal of this project is not exploitation, but understanding application logi
 - Importance of validating assumptions about system behavior
 - How small inconsistencies in input handling or access flow can lead to security issues
 - Value of documenting scope and impact before escalation
+- Gained a clearer understanding of how application behavior can differ from design assumptions.
+- Learned to approach security issues by first defining scope and impact before technical details.
+- Improved documentation skills by structuring observations clearly for review.
+
 
 ## Ethical Considerations
 All analysis was performed in a controlled environment on intentionally vulnerable or local applications. No real-world systems were tested.
