@@ -5,7 +5,7 @@
 User input should be validated and handled consistently.
 
 **Observed Behavior:**  
-Certain inputs resulted in unexpected application responses.
+Certain edge-case inputs resulted in application responses that differed from expected validation behavior.
 
 **Potential Impact:**  
 Could lead to improper data handling or logic bypass if not addressed.
