@@ -24,5 +24,6 @@ Access flow did not always enforce strict role boundaries.
 
 **Potential Impact:**  
 May allow unauthorized access to sensitive functions.
+
 **Mitigation Consideration:**  
 Strengthen access checks and enforce role validation.
